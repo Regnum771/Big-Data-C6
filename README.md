@@ -6,7 +6,7 @@
 |---|---|
 | RAM | 8 GB (khuyến nghị 12 GB) |
 | CPU | 4 cores |
-| Dung lượng ổ đĩa | 5 GB trống |
+| Dung lượng ổ đĩa | 8 GB trống (khuyễn nghị 10 GB)|
 | Docker Desktop | 4.x trở lên |
 | Docker Compose | v2 trở lên |
 
