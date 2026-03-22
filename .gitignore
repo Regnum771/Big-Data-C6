@@ -1,0 +1,20 @@
+# Dữ liệu (không commit lên git)
+data/raw/
+data/output/
+
+# Checkpoints Spark
+data/output/checkpoints/
+
+# Scripts output
+scripts/data/output/
+scripts/data/raw/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
