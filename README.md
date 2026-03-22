@@ -22,7 +22,7 @@ docker-setup/
 ├── scripts/
 │   ├── init.sh               ← Script khởi tạo (chạy một lần)
 │   └── generate_dataset.py   ← Tạo dataset 30 ngày
-├── notebooks/                ← Đặt file .ipynb bài tập vào đây
+├── notebooks/                ← Đặt file .ipynb bài tập vào đây. Sử dụng dàn bài 1-5.
 └── data/
     ├── raw/                  ← Dataset đầu vào (tự động tạo)
     └── output/               ← Kết quả xử lý của các bài
