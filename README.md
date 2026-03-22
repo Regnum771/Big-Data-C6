@@ -1,4 +1,4 @@
-# Môi trường Docker — Bài tập Chương 6
+# Bài tập Chương 6 - Ứng dụng Dữ liệu lớn
 
 ## Yêu cầu hệ thống
 
