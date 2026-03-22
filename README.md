@@ -17,7 +17,7 @@
 ```
 docker-setup/
 ├── docker-compose.yml        ← Định nghĩa toàn bộ services
-├── Dockerfile.jupyter        ← Image Jupyter tùy chỉnh
+├── Dockerfile                ← Image Jupyter tùy chỉnh
 ├── spark-defaults.conf       ← Cấu hình Spark mặc định
 ├── scripts/
 │   ├── init.sh               ← Script khởi tạo (chạy một lần)
